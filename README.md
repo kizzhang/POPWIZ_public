@@ -1,11 +1,11 @@
 # PopWiz — chat to commerce-grade imagery
 
-> Built at **UCWS Singapore Hackathon 2026** · [Try the live demo](https://popwiz.ai) · <!-- TODO: replace TODO with the recorded video URL -->[90-second walkthrough](TODO)
+> An entry for **UCWS Singapore Hackathon 2026** · [Try the live demo](https://popwiz.ai) · <!-- TODO: replace TODO with the recorded video URL -->[90-second walkthrough](TODO)
 
 ![Hero](assets/hero.png)
 
 [![live demo](https://img.shields.io/badge/live-popwiz.ai-success)](https://popwiz.ai)
-[![UCWS 2026](https://img.shields.io/badge/built%20at-UCWS%202026-blue)](https://evol.epicconnector.ai/events/ucws-singapore-hackathon---2026-cxgy)
+[![UCWS 2026](https://img.shields.io/badge/entry-UCWS%202026-blue)](https://evol.epicconnector.ai/events/ucws-singapore-hackathon---2026-cxgy)
 [![status](https://img.shields.io/badge/status-in%20production-brightgreen)](https://popwiz.ai)
 
 ---
