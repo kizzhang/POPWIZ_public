@@ -1,6 +1,6 @@
 # PopWiz — chat to commerce-grade imagery
 
-> An entry for **UCWS Singapore Hackathon 2026** · [Try the live demo](https://popwiz.ai) · <!-- TODO: replace TODO with the recorded video URL -->[90-second walkthrough](TODO)
+> An entry for **UCWS Singapore Hackathon 2026** · [Try the live demo](https://popwiz.ai)
 
 ![Hero](assets/hero.png)
 
@@ -18,12 +18,8 @@ Commerce imagery is the single largest production cost for SMB e-commerce seller
 
 ## Live demo
 
-Hosted at [popwiz.ai](https://popwiz.ai). New signups get free credits.
+Hosted at [popwiz.ai](https://popwiz.ai). New signups get free credits. Three end-to-end flows reproducible right after signup:
 
-<!-- TODO: replace TODO with the recorded video URL after recording -->
-**90-second walkthrough:** [TODO]
-
-The video covers three end-to-end flows (full screenplay in [docs/demo-script.md](docs/demo-script.md)):
 1. Commerce hero shot from a text brief
 2. Real-photo → AI model
 3. Product photo → 5-second ad video

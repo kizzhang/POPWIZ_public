@@ -12,7 +12,7 @@ SMB commerce sellers in Singapore and SEA spend more per launch on photography (
 
 ## 3. Demo quality
 
-Live demo runs at popwiz.ai (production traffic). 90-second walkthrough video covers three flows: text-to-hero-shot, real-face-to-AI-model, product-to-ad-video. Full screenplay: [`demo-script.md`](demo-script.md). No mocked data in the video.
+Live demo runs at popwiz.ai (production traffic). Three core flows are reproducible immediately after signup using free starter credits: text-to-hero-shot, real-face-to-AI-model, product-to-ad-video. No mocked paths.
 
 ## 4. Business potential
 
