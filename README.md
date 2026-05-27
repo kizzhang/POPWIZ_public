@@ -1,4 +1,4 @@
-# PopWiz — chat to commerce-grade imagery
+# PopWiz — chat to commerce-grade commercials
 
 > An entry for **UCWS Singapore Hackathon 2026** · [Try the live demo](https://popwiz.ai)
 
@@ -85,7 +85,7 @@ Full diagram, data-flow narrative, and three architectural decisions worth expla
 
 <!-- Add additional teammates as `- **Name** — role · [link]` rows. -->
 - **Zhiyu Zhang** — Founder & Engineer · [GitHub @kizzhang](https://github.com/kizzhang)
-
+- **Hongyi Luo** — Cofounder & Creative Director 
 ## What's next
 
 Expanding into batch creative pipelines for brand launches and integrations with regional commerce platforms across Southeast Asia. Self-assessment against a generic AI hackathon rubric: [docs/judging-rubric.md](docs/judging-rubric.md).
